@@ -1,4 +1,5 @@
-# MyeBay_20200415
+# MyeBay
+使用技術 : HTML 、 CSS 
+網站連結 : https://amyyou.github.io/MyeBay/
 
-My eBay (HTML + CSS) https://amyyou.github.io/MyeBay_20200415/
 
